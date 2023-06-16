@@ -1,13 +1,9 @@
-import java.sql.Array;
-import java.util.Arrays;
 import java.util.Random;
 import java.util.Scanner;
 
-import java.util.Random;
-
 import static java.lang.Integer.MAX_VALUE;
 
-public class Main {
+public class HomeWorkQA3 {
     static public Scanner sc = new Scanner(System.in);
     static public Random random = new Random();
 
